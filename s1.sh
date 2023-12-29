@@ -26,3 +26,4 @@ echo "Hostname has been changed to $new_hostname"
 echo "web5.manaze.io"
 echo "172.18.1.1:8090"
 echo "https://sites.google.com/a/daffodilsw.com/hr-policies/home"
+google-chrome https://web5.manaze.io https://172.18.1.1:8090 https://sites.google.com/a/daffodilsw.com/hr-policies/home
