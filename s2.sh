@@ -2,7 +2,7 @@ cd ~/Downloads
 sudo apt install wget -y
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O chrome.deb
 wget https://daffo.s3.ap-south-1.amazonaws.com/linux/code.deb -O code.deb
-wget https://daffo.s3.ap-south-1.amazonaws.com/linux/installer.tar -O installer.deb
+wget https://daffo.s3.ap-south-1.amazonaws.com/linux/installer.tar -O installer.tar
 sudo dpkg -i *.deb
 sudo apt install -f -y
 wget https://daffo.s3.ap-south-1.amazonaws.com/linux/anydesk.deb -O anydesk.deb
